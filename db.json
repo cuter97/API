@@ -13,25 +13,25 @@
             "id": 1,
             "producto": "IPA 1L",
             "precio": 120,
-            "imagen": "../imagenes/cerve-ipa-manush.jpg"
+            "imagen": "https://picsum.photos/id/10/300"
         },
         {
             "id": 2, 
             "producto": "Amber Lager 1L", 
             "precio": 100,
-            "imagen": "../imagenes/cerve-irish-manush.jpg"
+            "imagen": "https://picsum.photos/id/1011/300"
         },
         {
             "id": 3, 
             "producto": "Red Ipa 1L", 
             "precio": 140,
-            "imagen": "../imagenes/cerve-stout-manush.jpg"
+            "imagen": "https://picsum.photos/id/1036/300"
         },
         {
             "id": 4, 
             "producto": "Pilsen 1L", 
             "precio": 90,
-            "imagen": "../imagenes/Cerveza-montaña1.jpg"
+            "imagen": "https://picsum.photos/id/1043/300"
         }
     ]
   }
