@@ -1,26 +1,38 @@
-[
-    {
+{
+    "posts": [
+      {
         "id": 1,
-        "producto": "IPA 1L",
-        "precio": 120,
-        "imagen": "imagenes/cerve-ipa-manush.jpg"
+        "title": "hello"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
     },
-    {
-        "id": 2, 
-        "producto": "Amber Lager 1L", 
-        "precio": 100,
-        "imagen": "imagenes/cerve-irish-manush.jpg"
-    },
-    {
-        "id": 3, 
-        "producto": "Red Ipa 1L", 
-        "precio": 140,
-        "imagen": "imagenes/cerve-stout-manush.jpg"
-    },
-    {
-        "id": 4, 
-        "producto": "Pilsen 1L", 
-        "precio": 90,
-        "imagen": "imagenes/Cerveza-montaña1.jpg"
-    }
-]
+    "productos": [
+        {
+            "id": 1,
+            "producto": "IPA 1L",
+            "precio": 120,
+            "imagen": "imagenes/cerve-ipa-manush.jpg"
+        },
+        {
+            "id": 2, 
+            "producto": "Amber Lager 1L", 
+            "precio": 100,
+            "imagen": "imagenes/cerve-irish-manush.jpg"
+        },
+        {
+            "id": 3, 
+            "producto": "Red Ipa 1L", 
+            "precio": 140,
+            "imagen": "imagenes/cerve-stout-manush.jpg"
+        },
+        {
+            "id": 4, 
+            "producto": "Pilsen 1L", 
+            "precio": 90,
+            "imagen": "imagenes/Cerveza-montaña1.jpg"
+        }
+    ]
+  }
+
